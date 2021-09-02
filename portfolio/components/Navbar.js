@@ -54,7 +54,7 @@ export default function Navbar({ fixed }) {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/diary">
+                <Link href="/blog">
                   <a className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
                     Diary
                   </a>
